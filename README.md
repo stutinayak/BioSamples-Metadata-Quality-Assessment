@@ -1,2 +1,1 @@
-# BioSamples-Metadata-Quality-Assessment
-# BioSamples-Metadata-Quality-Assessment
+The aim of this project is to assess the quality of biodmedical metadata using topic modeling. The algorithm used is Non-negative matrix factorization. 
