@@ -1,0 +1,10 @@
+genotype,"blast count, % of sample, -1=unavailable",ecotype/subspecies,additional organism part information,animal model,celiac disease,b cell type,age
+genotype mutant (asense,Day sampled,host species,host organism,Animal model,disease,cell type,Arabidopsis thaliana (col-0) - dev.stage (Boyes et al. Plant Cell 2001)
+genotype: 555.11del,material sample,single species biofilm / culture,organism detected in blood culture,cell line derived from gem model of prostate cancer,disease stage,cell type (purified cell subset),Arabidopsis thaliana (columbia) - age
+genotype: prototroph 555.11del,Pooled sample,species,organism detected using array,cell model,disease staging,cell type subpopulation,Arabidopsis thaliana (columbia) mutant (dcl2-1 dcl3-1 dcl4-2) - age
+genotype: prototroph 670.20del,Pooled sample of tumor-free surgical margins of laryngeal squamous cell carcinoma (LSCC),species status,organism part,disease model,disease state,cell type(s),Arabidopsis thaliana (columbia) mutant (dcl4-1) - age
+genotype: Tn7,sample,species type,organism part(tissue),gem model of prostate cancer,disease state time,reference cell type,Arabidopsis thaliana (columbia) mutant (rdr6-1) - age
+Hal genotype,sample characteristics,sub species,organism structure,generation in xenograft model,disease status,source of cell type,Arabidopsis thaliana (columbia) - dev.stage (Boyes et al. Plant Cell 2001)
+individual genotype,sample source name,subspecies,organism type,genetic model,diseased,t cell type,Arabidopsis thaliana (columbia) mutant (35S-ABA47b) - dev.stage (Boyes et al. Plant Cell 2001)
+Mecp2 genotype,sample type,sugar species,organism weight,genetically engineered mouse model,"rfs event (0=no relapse, 1=relapsed at any site or died of disease)",test cell type,Arabidopsis thaliana (columbia) mutant (35S-ABA416i) - dev.stage (Boyes et al. Plant Cell 2001)
+pool genotype,"sample viability, % of sample, -1=unavailable",two-species biofilm,supporting culture organism,hcv infection model,Time (yrs) from PSA recurrence to systemic disease,tumor cell type,Arabidopsis thaliana (columbia) mutant (35S-NCED622.4) - dev.stage (Boyes et al. Plant Cell 2001)

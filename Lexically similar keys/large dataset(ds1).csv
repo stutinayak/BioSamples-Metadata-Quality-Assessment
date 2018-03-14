@@ -1,0 +1,165 @@
+genotype,"blast count, % of sample, -1=unavailable",ecotype/subspecies,additional organism part information,animal model,celiac disease,b cell type,age
+genotype mutant (asense,Day sampled,host species,host organism,Animal model,disease,cell type,Arabidopsis thaliana (col-0) - dev.stage (Boyes et al. Plant Cell 2001)
+genotype: 555.11del,material sample,single species biofilm / culture,organism detected in blood culture,cell line derived from gem model of prostate cancer,disease stage,cell type (purified cell subset),Arabidopsis thaliana (columbia) - age
+genotype: prototroph 555.11del,Pooled sample,species,organism detected using array,cell model,disease staging,cell type subpopulation,Arabidopsis thaliana (columbia) mutant (dcl2-1 dcl3-1 dcl4-2) - age
+genotype: prototroph 670.20del,Pooled sample of tumor-free surgical margins of laryngeal squamous cell carcinoma (LSCC),species status,organism part,disease model,disease state,cell type(s),Arabidopsis thaliana (columbia) mutant (dcl4-1) - age
+genotype: Tn7,sample,species type,organism part(tissue),gem model of prostate cancer,disease state time,reference cell type,Arabidopsis thaliana (columbia) mutant (rdr6-1) - age
+Hal genotype,sample characteristics,sub species,organism structure,generation in xenograft model,disease status,source of cell type,Arabidopsis thaliana (columbia) - dev.stage (Boyes et al. Plant Cell 2001)
+individual genotype,sample source name,subspecies,organism type,genetic model,diseased,t cell type,Arabidopsis thaliana (columbia) mutant (35S-ABA47b) - dev.stage (Boyes et al. Plant Cell 2001)
+Mecp2 genotype,sample type,sugar species,organism weight,genetically engineered mouse model,"rfs event (0=no relapse, 1=relapsed at any site or died of disease)",test cell type,Arabidopsis thaliana (columbia) mutant (35S-ABA416i) - dev.stage (Boyes et al. Plant Cell 2001)
+pool genotype,"sample viability, % of sample, -1=unavailable",two-species biofilm,supporting culture organism,hcv infection model,Time (yrs) from PSA recurrence to systemic disease,tumor cell type,Arabidopsis thaliana (columbia) mutant (35S-NCED622.4) - dev.stage (Boyes et al. Plant Cell 2001)
+genotype: 670.20del,sample nr,community species composition,organism(s),mouse model strain,disease group,cell types,age/sex
+hcv genotype,number of samples in the pool,claimed species,organism part information,mouse model age,no evidence of disease (ned) or failed,melanoma cell type,gender and age
+mouse genotype,tissue sample,actual species,organism status,mouse model gender,disease free interval (months),tissue or cell type,passsage number
+brca genotype,reference sample,infecting parasite species,host organism for xenografts only,hiearchical model of known recurrent aberrations,meibomian gland disease state,cancer cell type,dev.stage (boyes et al. plant cell 2001) boyes
+hdh genotype,sample tissue of origin,rna species,organism reference,model system,disease severity,cell type (sorted),transfection reagent
+a.thaliana genotype,sample id,species in mixed sample,organism count,hcv infection model,clinical characteristic/disease status,cell type derived from,age of diagnosis
+cmv genotype/variation,coriell sample,qpcr plasmodium species,organism modifier note,responded to raf265 in mouse model,index case disease site,cell line/cell type,hemangioma growth stage
+genotype variation,patient sample,Pre-coloniser species,microorganisms,strain/model,disease free survival time (months),pancreatic cell type,pasage
+genotype: Arabidopsis thaliana (wassilewskija) mutant (phs1-); age,repeat samples derived from dentical donors,species in mixed culture,organism isolated from,migration model,disease category,source cell type,oocyte stage
+genotype: Arabidopsis thaliana (wassilewskija); age,sample preservation,mixed species,Other organism,restriction model,disease model,cell type (transplanted into recipient),r-hlh dosage
+genotype: Arabidopsis thaliana (col-0); age,sample number,carrier species,exp prey organism,xenograft from ovarian cancer model,extent of disease,targeted cell type,r-hfsh dosage
+genotype: Arabidopsis thaliana (col-0) mutant (ss3- ss4-); age,time between donor death and sample collection,host species abbrev,organism synonym,animal model,dead of disease,isolation/cell type,hcg dosage
+genotype: Arabidopsis thaliana (col-0) mutant (ss4-); age,condition sample id,host.species,spike-in reference organism,gem model of prostate cancer,malignancy (disease state),cell type sorted,dendritic cell lineages
+genotype: Arabidopsis thaliana (col-0) mutant (ss3-); age,treated samples,pot soil species environment country,xenograft host organism,cell line derived from gem model of prostate cancer,phenotype (disease state),background cell type,age at sacrafice
+genotype: Arabidopsis thaliana (wassilewskija) mutant (adg1-); age,untreated samples,precoloniser species,organism cultured from ulcer,tumor model,diseasestatus,cell type origin,dukes stage
+genotype: Arabidopsis thaliana (wassilewskija) mutant (ss4- phs1-); age,days from visit to sample collection,genspecies abbr,dbd source organism,olt model,disease type,sarcoma and primary cell type,age of trees
+genotype: Arabidopsis thaliana (wassilewskija) mutant (ss4-); age,sample source,species A (mixed),pathogen organism,genetic model,disease state (mesomelic dysplasia kantaputra),chemo-resistance cell type,cell growth stage
+genotype: Arabidopsis thaliana (wassilewskija) mutant (adg1- be2- be3-); age,agegroupatsampledraw,species B (mixed),infecting organism,sepsis model,disease subtype,sorted cell type,age in days
+background genotype,pre-treatment sample,species in culture,host organism strain,time point in the model of dormancy,age at disease onset,cd8+ t cell type,age at diagnosis years
+bacterial genotype,post-treatment sample,proposed new subspecies,organisms in mixed sample,generation in xenograft model,disease phase,originating cell type,conidial age
+rs1333049 genotype,sample pairing,observed species mean,Host organism,atrophic model,relapsed at any site or died of disease,cell type/growth condition,infant age
+genotype (transgenic line),sample histology,observed species stdv,LD50 no of organisms,epilepsy model,disease progression,human cell type,meiotic stage
+"genotype/variation (cebpa single mutant, cebpa double mutant)",# plants/sample,observed species med,organisms,instrument model,affected status (disease state),organ or cell type,stage of oogenesis
+host genotype,corresponding tumor sample in gse19977,CMB species,target organism,model id,duration of disease,cell type info,gestational age (wk)
+esr1 genotype,sampleID,interspecies interaction between organisms,organism type1,,hiv disease status,host cell type,gestational age (wks)
+cell line/genotype,biosample type,,simulated organism,,disease phenotype,xenograft cell type,age (mos)
+genotype/varation,paired sample,,organism host,,disease specific survival years,cell type total rna source,hsc stage
+genotype(breed),raw file sample id,,interspecies interaction between organisms,,disease specific survival event,cell type effector precursor,flagellin
+genotype/variation: ApcD14/+,patient sample type,,,,disease free survival (months),cell type precursor used to generate ipscs,aget
+nqo1 rs1800566 genotype,origin of sample,,,,pcd disease status,cell type marker,hiv-1 infection stage
+genotype of pollen,sample treatment,,,,patient disease status,facs-isolated cell type,age of ffpe tissue
+gp130 genotype,sample time,,,,disease-free survival (dfs),original cell type,m stage
+rs7956957 genotype,sample size,,,,disease-free survival (dfs) event,cell type enrichment,age weeks
+tet2 genotype,sample no,,,,donor disease state,progenitor cell type,endometrioma severity stage
+genotype hdh cag repeat length,sampleid,,,,"8-week disease control (1=yes, 0=no)",cell types expressing ip proteins,age of mouse
+il4r genotype,date of sample preparation and hybridisation,,,,disease development,cell type source,gestational age of pups
+genotype reference,wilms tumor sample,,,,sle disease activity index (sledai),claimed cell type,gestional age
+braf genotype,time of sample harvesting,,,,disease progression status,actual cell type,reproductive stage
+rs7575840 genotype,sample section,,,,disease-free survival time dfs,cell type grown in vivo,tissue lineage
+fto-genotype,samples,,,,residual disease cm,cell type grown in vitro,average hw/bw
+prdm1 genotype,sample set for prediction study,,,,surgical debulking or residual disease cm,cell type analyzed,tumor stage ajcc
+hla-dqb1 genotype,pooled from multiple samples,,,,duration of disease (month),cell type human,tumorstage
+meis1 genotype,sample composition,,,,disease free survival years,cell type modification,mammary gland stage
+genotype of ecat15-2,sample type: normalization control (in vitro genomic dna labelling,,,,disease free survival event,t-cell type,ffpe block storage duration (yrs)
+genotype of ecat15-1,sample pooling protocol,,,,etiology of liver disease,resulting cell type,ffpe block storage duration time (yrs)
+transgene genotype,number of individuals per sample,,,,"8-week disease control 1=yes, 0=no",cell type abbreviation,culture stage
+15q13 genotype rs4779584,sample subtype,,,,8 week disease control 1yes 0no,collection site and cell type,tnm.stage
+12q13 genotype rs11169544,equisetum arvense sample,,,,disease free interval days,derived cell typed,age.year
+8q24 genotype rs7014346,chip sample,,,,GEO original disease state,cell type subset,bc tumor stage
+10p14 genotype rs706771,sample common name,,,,disease status of patient,strain/cell type,ann arbor stage
+12q13 genotype rs7136702,sample alias,,,,trg disease state,assigned cell type,7th tnm stage
+9q24 genotype rs10975552,on antibiotics at time of sample,,,,s disease state,target cell type,6th tnm stage
+14q22 genotype rs11623717,corrected gestational age at sample weeks+days,,,,disease course,cultured primary cell type,gestational age at delivery
+1q41 genotype rs11579490,paired sample id,,,,disease extension,tissue/cell type source,dinitrobenzene dosage
+8q24 genotype rs6983267,sample tag,,,,"dfs time disease free survival time, months",cell types for non-malignant cells,drought stage
+16q22 genotype rs2059254,sample prep,,,,dss event disease specific survival,cell type surface markers,treatment protocol post-agent
+20q13 genotype rs4925386,sample collection,,,,"dss time disease specific survival time, months",stage/cell type,neuropathological data braak stage
+3q26 genotype rs12638862,liver sample group,,,,dfs event disease free survival,inferred cell type,age at death
+8q24 genotype rs10505477,sample age,,,,residual disease,major cell type,acps stage
+1q41 genotype rs6691195,tumor sample histological grade,,,,code disease-specific survival,,age description
+20p12 genotype rs50005940,tumor sample id,,,,disease free survival month,,tumor stage inss classification
+8q23 genotype rs16892766,fibroblast sample id,,,,disease free survival,,age at diagnosis months
+18q21 genotype rs7226855,fibroblast sample histological grade,,,,disease free survival dfs in months from surgery date,,peptide dosage
+myostatin genotype,sample reference,,,,lung disease,,tnm stages
+2 genotype,sample medical procedure,,,,advanced disease state,,age in days post-partum
+genotype n,days between sample collection,,,,disease-resistance,,assay reagents
+pathogen genotype/variation,year of sample collection,,,,no evidence of disease,,g1 checkpoint (percentage of the cells that arrest in g1 after irradiation)
+lrrk2 genotype,rna sample dilution used in hybn,,,,disease relapse event,,g2 checkpoint (the percentage of cells that arrest in g2 after irradiation)
+genotype/ecotype,sample identifier,,,,disease progression event,,average shoot height
+maternal genotype/variation,sample barcode,,,,disease-free interval months,,passage post cre infection
+paternal genotype/variation,matching cn sample id,,,,primary disease,,age month
+e2f1 genotype,matching expn sample id,,,,disease causing mutation,,"pathological tumor stage after neoadjuvant treatment and surgery 0,i,ii,iii, iv - according to uicc tnm classification"
+hd genotype,sample origin,,,,disease state phenotype,,"clinical tumor stage 0,i,ii,iii,iv - according to uicc tnm classification"
+hemoglobin genotype,sample collection time,,,,disease state final pathology,,age at radiation
+genotype/variation: H37Rv(ÎrsbW/sigF):,corresponding samples id in manuscript,,,,disease severity/outcome,,tsc passage number
+genotype/background,sample origin/type,,,,disease duration yrs,,donor age y
+genotype/variation: alg-2; ALG-2:,age at sample months,,,,aggressiveness of disease,,status on endocrine agent
+spea2 genotype,slide number and position of the samples in each array,,,,disease free mo,,endocrine agent
+sdad2 genotype,sample #,,,,death from disease,,developmental stage days of gestation
+RNASEL R462Q genotype,loring pipeline sample id,,,,disease-free survival time,,stage at initial evaluation
+backgroud genotype,reference sample from accession gse30111 (rna source),,,,host disease,,age at surgery yrs
+host soybean genotype,replicate samples,,,,host disease outcome,,average gic50
+genotype/variations,cell sample,,,,host disease stage,,average gic50 nm
+apoe genotype,sample fraction,,,,host disease state,,breast cancer stage
+genotype brdt,sample preparation,,,,disease/status,,tumor stage t
+genotype/treatment,day sample was collected,,,,disease/health status,,age at diagnosis year
+genotype of the cells,sample pair,,,,disease condition,,group stage
+rs5995355 genotype,sampletime,,,,idd related diseases,,s age
+host/mouse genotype,number of individulas per sample,,,,disease state host,,ageyears/gender
+genotype/variataion,matching meth sample id,,,,patient 2 yr disease free survival outcome,,age yr
+,,,,,disease activity,,
+,,,,,clinical status post 1st line chemotherapy cr - complete response; pr - partial response; sd - stable disease; p - progression,,
+,,,,,clinical status at last follow-up awd - alive with disease; dod - dead from disease; ned - no evidence of disease,,
+,,,,,dfs - disease-free survival days,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Ventricular septal defect) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Mithral stenosis) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Tetralogy of Fallot) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Atrial Septal Defect) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease ( Ventricular septal defect) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Aortic insufficiency) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Hypoplastic Left Heart Syndrome) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Aortic stenosis) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Patent Ductus Arteriosus) Gender,,
+,,,,,DNA isolated from blood of a patient with congenital heart disease (Tricuspid atresia) Gender,,
+,,,,,diseases,,
+,,,,,disease abbreviation,,
+,,,,,ajcc neoplasm disease lymph node stage,,
+,,,,,ajcc neoplasm disease stage,,
+,,,,,disease extracapsular extension ind-3,,
+,,,,,disease detection molecular analysis method type,,
+,,,,,tumor residual disease,,
+,,,,,primary other site of disease name,,
+,,,,,local disease recurrence,,
+,,,,,tumor disease anatomic site,,
+,,,,,histologic disease progression present type,,
+,,,,,histologic disease progression present text,,
+,,,,,histologic disease progression present indicator,,
+,,,,,cardiovascular disease state,,
+,,,,,disease recurrence,,
+,,,,,disease state exosomes,,
+,,,,,tfc disease stage,,
+,,,,,disease duration,,
+,,,,,measurable disease check if it's measurable,,
+,,,,,cad disease status,,
+,,,,,status of disease 5 years,,
+,,,,,disease-specific survival time months,,
+,,,,,donor disease status,,
+,,,,,disease/genotype,,
+,,,,,disease activity score das-28crp,,
+,,,,,years of disease,,
+,,,,,clincial information - disease outcome,,
+,,,,,advanced disease stage,,
+,,,,,disease state condition,,
+,,,,,status of disease,,
+,,,,,disease ontology uri,,
+,,,,,host health disease status,,
+,,,,,disease location,,
+,,,,,diseasestaging,,
+,,,,,age/disease timepoint,,
+,,,,,health or disease status of specific host at time of collection,,
+,,,,,Dose disease state,,
+,,,,,host disease stautus,,
+,,,,,disease stat,,
+,,,,,host disease status,,
+,,,,,cardiovascular disease,,
+,,,,,kidney disease,,
+,,,,,liver disease,,
+,,,,,Other frequent host-diseases,,
+,,,,,disease site,,
+,,,,,disease associated genotype,,
+,,,,,disease duration days,,
+,,,,,host disease severity,,
+,,,,,current disease,,
+,,,,,disease free,,
+,,,,,infectious disease,,
